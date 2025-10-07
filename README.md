@@ -54,7 +54,5 @@ This project explores the **Titanic dataset** to predict survival using a range 
 | LogisticRegression | 0.80 | 0.78 |
 | XGBClassifier | 0.83 | 0.80 |
 
-*(Example results — actual values depend on your latest training run.)*
-
 ---
 
